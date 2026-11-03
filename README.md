@@ -2,7 +2,7 @@
 
 One-click Railway template for [EdgeEver](https://github.com/tianma-if/edgeever) — an AI-native, self-hosted notes app and Evernote/Obsidian alternative with instant multi-device sync and a native Remote MCP server.
 
-Deploy button: _added after the template is generated_
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/MtwXQu)
 
 ## What this repo contains
 
